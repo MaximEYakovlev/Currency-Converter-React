@@ -1,3 +1,4 @@
+### React App
 + I used the API: https://exchangeratesapi.io.
 + The API has a unique identifier as an API key that gets passed into the API as an URL parameter access_key. This parameter serves as a unique identifying authentication with the Exchangerates API.
 + Base URL: https://api.exchangeratesapi.io/v1/.
