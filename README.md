@@ -1,3 +1,9 @@
++ I used the API: https://exchangeratesapi.io.
++ The API has a unique identifier as an API key that gets passed into the API as an URL parameter access_key. This parameter serves as a unique identifying authentication with the Exchangerates API.
++ Base URL: https://api.exchangeratesapi.io/v1/.
++ Append your API Key: See an example of how to authenticate the Exchangerates API with the access_key parameter: https://api.exchangeratesapi.io/v1/latest
+    ? access_key = API_KEY.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
